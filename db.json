@@ -6,6 +6,13 @@
       "organization": "Fame",
       "date_string": "22.05.2021",
       "location": "Krakow, Poland"
+    },
+    {
+      "id": 1,
+      "title": "NGL 4 ",
+      "organization": "NGL",
+      "date_string": "06.03.2021",
+      "location": "Las Vegas, Nevada, USA"
     }
     ]
 }
