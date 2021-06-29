@@ -5,14 +5,33 @@
       "title": "FAME MMA 9",
       "organization": "Fame",
       "date_string": "22.05.2021",
-      "location": "Krakow, Poland"
+      "location": "Krakow, Poland",
+      "title_fight": "Al-Sulwi vs. Wozinski"
     },
     {
       "id": 1,
       "title": "Bellator 259",
       "organization": "Bellator",
       "date_string": "06.03.2021",
-      "location": "Las Vegas, Nevada, USA"
+      "location": "Las Vegas, Nevada, USA",
+      "title_fight": "Hall vs. Strickland"
+    },
+    {
+      "id": 2,
+      "title": "UFC-264",
+      "organization": "UFC",
+      "date_string": "11.07.21",
+      "location": "Las Vegas, Nevada, USA",
+      "title_fight": "Poirier vs. Mcgregor"
+      
+    },
+    {
+      "id": 3,
+      "title": "FAME MMA 9",
+      "organization": "FAME",
+      "date_string": "25.03.2021",
+      "location": "Houston, USA",
+      "title_fight": "Rob Font vs Cody Garbrandt"
     }
     ]
 }
