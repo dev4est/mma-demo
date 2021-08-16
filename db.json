@@ -6,7 +6,8 @@
       "organization": "Fame",
       "date_string": "22.05.2021",
       "location": "Krakow, Poland",
-      "title_fight": "Al-Sulwi vs. Wozinski"
+      "title_fight": "Al-Sulwi vs. Wozinski",
+      "seo_title": "Title for Events 1"
     },
     {
       "id": 1,
@@ -14,7 +15,8 @@
       "organization": "Bellator",
       "date_string": "06.03.2021",
       "location": "Las Vegas, Nevada, USA",
-      "title_fight": "Hall vs. Strickland"
+      "title_fight": "Hall vs. Strickland",
+      "seo_title": "Title for Events 2"
     },
     {
       "id": 2,
@@ -22,7 +24,8 @@
       "organization": "UFC",
       "date_string": "11.07.21",
       "location": "Las Vegas, Nevada, USA",
-      "title_fight": "Poirier vs. Mcgregor"
+      "title_fight": "Poirier vs. Mcgregor",
+      "seo_title": "Title for Events 3"
       
     },
     {
@@ -31,7 +34,8 @@
       "organization": "FAME",
       "date_string": "25.03.2021",
       "location": "Houston, USA",
-      "title_fight": "Rob Font vs. Cody Garbrandt"
+      "title_fight": "Rob Font vs. Cody Garbrandt",
+      "seo_title": "Title for Events 4"
     }
     ]
 }
